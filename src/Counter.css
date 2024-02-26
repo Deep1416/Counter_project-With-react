@@ -1,0 +1,32 @@
+
+/* body{
+    background-color: aqua;
+} */
+
+.box{
+    width: 20rem;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+h2{
+    background-color: aqua;
+    font-size: 2rem;
+    font-style: inherit;
+    color: blue;
+}
+
+p{
+    color: black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.container button{
+background-color: blue;
+}
